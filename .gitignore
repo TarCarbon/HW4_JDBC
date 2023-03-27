@@ -1,9 +1,9 @@
-.gradle/
-.idea/
-build/
-db/
-gradle/
-lib/
+/.gradle/
+/.idea/
+/build/
+/db/
+/gradle/
+/lib/
 
 gradlew
 gradlew.bat
