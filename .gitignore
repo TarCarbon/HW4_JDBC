@@ -1,0 +1,10 @@
+.gradle/
+.idea/
+build/
+db/
+gradle/
+lib/
+
+gradlew
+gradlew.bat
+settings.gradle
